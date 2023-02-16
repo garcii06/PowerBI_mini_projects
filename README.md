@@ -1,8 +1,8 @@
 # Visualization Mini Projects
 
-The purpose of this repo is to have mini projects using any BI software, mostly PowerBI and Tableau.🎥
-What is a mini project? ❓
-Well, I define mini project as visualizations/dashboards where I can practice topics such as:
+The purpose of this repo is to have mini projects using any BI software, mostly PowerBI and Tableau.🎥  
+**What is a mini project?** ❓  
+ - Well, I define mini project as visualizations/dashboards where I can practice topics such as:
 
 Colors 🖍  
 Charts 📊  
