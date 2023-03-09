@@ -14,7 +14,7 @@ This gives me the advantage to practice only specific topics without going to de
 The following mini projects are completely available: 
  - [Dashboard Ski Resorts 🎿](#dashboard-ski-resorts-)
  - [Ways to get Protein 🥚](#ways-to-get-protein-)
- - [Pueblas patrimonial damage 🔥](pueblas-patrimonial-damage-)
+ - [Pueblas patrimonial damage 🔥](#pueblas-patrimonial-damage-)
 ## 
 ## Dashboard Ski Resorts 🎿
 From the Mavens Data Challenge, this dashboard helps the user to decide the next resort.🏔  
